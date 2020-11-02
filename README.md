@@ -1,4 +1,4 @@
-# Follow my adventures in...[Telling Stories with Data](https://welter808.github.io/portfolio/)
+# Follow my adventures in...[Telling Stories with Data](https://welter808.github.io/cwelter_TSWD_portfolio/)
 
 # about me
 #### **Christi Welter** (*she/her/hers*) 
