@@ -1,5 +1,4 @@
-# portfolio
-Adventures in Telling Stories with Data
+# Adventures in Telling Stories with Data
 https://welter808.github.io/portfolio/
 
 # about me
