@@ -7,11 +7,11 @@ I grew up in Hawai'i before moving to the mainland for a BS in Mathematics and a
 ![](AboutMePics/Hawai'i.jpg) ![](AboutMePics/Dance.jpg) ![](AboutMePics/HotToddy.jpg) ![](AboutMePics/Jump.jpg) ![](AboutMePics/Bear.jpg)
 
 ## what i hope to learn
-- [ ] a little art
+- [ ]  a little art
 
-- [ ] a little science
+- [ ]  a little science
 
-- [ ] a little storytelling
+- [ ]  a little storytelling
 
 ## portfolio
 direct links to my projects will go here.
