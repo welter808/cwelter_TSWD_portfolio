@@ -14,6 +14,6 @@ I grew up in Hawai'i before moving to the mainland for a BS in Mathematics and a
 - [ ]  a little storytelling
 
 ## portfolio
-direct links to my projects will go here.
+direct links to my projects
 
-[General Government Debt](/GovDebtViz.md)
+[Visualizing Government Debt](/GovDebtViz.md)
