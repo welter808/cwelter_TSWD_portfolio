@@ -9,3 +9,8 @@ From [OECD](https://data.oecd.org/gga/general-government-debt.htm)
 Made using [Flourish](https://flourish.studio/)
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4282316"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Animated Bar Chart
+Made using [Flourish](https://flourish.studio/)
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/4283995"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
