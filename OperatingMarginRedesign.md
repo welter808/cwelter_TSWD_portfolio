@@ -30,3 +30,7 @@ Made using [Flourish](https://flourish.studio/)
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/4384351"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+## *Resources*
+
+1. DataArts, Nicholas Crosson, Alexis Diallo, Rebecca Johnson, Larry Bomback, and Xunze Su. “State of NYC Dance & Workforce   Demographics 2016.” Dance/NYC, 2016. https://culturaldata.org/media/1452/state-of-nyc-dance-and-workforce-demographics-online-version.pdf.
+2. Denison, Dwight V., and Angela Beard. "Financial vulnerability of charitable organizations: lessons from research." Journal for Nonprofit Management 7, no. 1 (2003): 23-31.
