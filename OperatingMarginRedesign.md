@@ -22,7 +22,8 @@ Feedback from others included:
 At that point, I gave up on trying to include budget as a volume in the visualization. So I tried a few more sketches to see if a some sort of scatter or dot plot might be more effective, still including revenue and expenses. But the scatter plot just drew even more attention to the correlation of those values and did little to highlight the operating margins. I really liked the look of the dumbbell plot, and actually tried a few iterations in Flourish. But I ran into trouble with the scale of values on the double y-axis and they still didn't highlight the achievement of the smaller organizations. That's when I decided to just focus on the operating margin values and flip to a single vertical dot plot. That allowed the smaller organizations to literally be on top and the visualization wasn't drowning in so many unnecessary numbers. 
 
 Made Using [Balsamiq](https://balsamiq.com/)
-[](https://welter808.github.io/AboutMePics/RedesignOM.pdf)
+
+![](AboutMePics/RedesignOM.png)
 
 I initially wanted to show organizational budget size by varying the size of the dots, but I really struggled with scaling the dots in Flourish. Too big and they started to overlap, too small and I couldn't label them consistently on the inside. There must be a way to just stretch the y-axis, but I couldn't figure it out for the life me. So, I went with an analogous color palette I selected from [Adobe Color](https://color.adobe.com/create/color-wheel). This allowed me to use greens for the two smallest budget categories, which had the larger surplus values. I included a legend in order to keep the dot plot clean with plenty of white space around. 
 
