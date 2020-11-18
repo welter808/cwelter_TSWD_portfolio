@@ -17,6 +17,10 @@ Feedback from others included:
 * "Where will you **fit** the values?"
 * "It doesn't emphasize that small dance organizations are **outperforming** big ones."
 
+At that point, I gave up on trying to include budget as a volume in the visualization. So I tried a few more sketches to see if a some sort of scatter or dot plot might be more effective, still including revenue and expenses. But the scatter plot just drew even more attention to the correlation of those values and did little to highlight the operating margins. I really liked the look of the dumbbell plot, but ran into trouble with the scale of values on the double y-axis. Plus, it still didn't highlight the achievement of the smaller organizations. 
+
+That's when I decided to just focus on the operating margin values and flip to a single vertical dot plot. That allowed the smaller organizations to literally be on top and the visualization wasn't drowning in so many unnecessary numbers.
+
 
 
 ## REDESIGNED - Aggregate Operating Margins
