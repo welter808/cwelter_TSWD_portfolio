@@ -17,3 +17,4 @@ I grew up in Hawai'i before moving to the mainland for a BS in Mathematics and a
 direct links to my projects
 
 [Visualizing Government Debt](/GovDebtViz.md)
+[Critique by Design] (/OperatingMarginRedesign.md)
