@@ -10,6 +10,13 @@ For the chart above from the [Dance/NYC](https://culturaldata.org/media/1452/sta
 
 ![](AboutMePics/Sketch_3:4.JPG)
 
+My gut response was "it's not gonna work."
+
+Feedback from others included:
+* "It **minimizes** what's important."
+* "Where will you **fit** the values?"
+* "It doesn't emphasize that small dance organizations are **outperforming** big ones."
+
 
 
 ## REDESIGNED - Aggregate Operating Margins
