@@ -34,7 +34,7 @@ Donate to Dance/USA!
 
 In highlighting the effort and investment of professional dancers, I hope broader awareness of the work behind the curtain will lead to increased appreciation of what the audience sees on stage. 
 ## Initial Sketches
-![]AboutMePics/FinalStoryArc.JPG
+![](AboutMePics/FinalStoryArc.JPG)
 ## Data
 ### Sources and Links: 
 - Data USA [*Dancers & Choreographers*](https://datausa.io/profile/soc/dancers-choreographers)
@@ -42,6 +42,14 @@ In highlighting the effort and investment of professional dancers, I hope broade
 - US Bureau of Labor Statistics [*Dancers and Choreographers*](https://www.bls.gov/ooh/entertainment-and-sports/dancers-and-choreographers.htm#tab-1) and [*Dancers: Occupational Employment and Wages, May 2019*](https://www.bls.gov/oes/current/oes272031.htm#st)
 - ICPSR [*The aDvANCE Project: A Study of Career Transition for Professional Dancers*](https://www.icpsr.umich.edu/web/ICPSR/studies/35598/summary)
 
+>Abrams, Abby. “Raising A Ballerina Will Cost You $100,000.” FiveThirtyEight (blog), August 20, 2015. https://fivethirtyeight.com/features/high-price-of-ballet-diversity-misty-copeland/. <br>
+“Dancers.” Accessed November 22, 2020. https://www.bls.gov/oes/current/oes272031.htm#st. <br>
+“Dancers & Choreographers | Data USA.” Accessed November 22, 2020. https://datausa.io/profile/soc/dancers-choreographers. <br>
+“Dancers and Choreographers : Occupational Outlook Handbook: : U.S. Bureau of Labor Statistics.” Accessed November 22, 2020. https://www.bls.gov/ooh/entertainment-and-sports/dancers-and-choreographers.htm#tab-1. <br>
+Healy, Rachael. “Dance, Sport and the Unspoken Trauma of Retirement.” Huck Magazine, January 18, 2019. https://www.huckmag.com/outdoor/sport-outdoor/dance-sport-and-the-unspoken-trauma-of-retirement/. <br>
+Levine, Mindy N. “Beyond Performance: Building a Better Future For Dancers and the Art of Dance,” n.d., 65. <br>
+“List of Dance Companies.” Accessed November 22, 2020. https://www.danceonline.co.uk/list-of-dance-companies.html. <br>
+Three Acts, Two Dancers, One Radio Host. “Three Acts, Two Dancers, One Radio Host.” Accessed November 22, 2020. http://3acts2dancers1radiohost.com/.
 
 A couple of paragraphs that document data sources and how data will be used.
 
