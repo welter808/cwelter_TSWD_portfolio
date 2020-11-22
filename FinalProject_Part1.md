@@ -34,7 +34,7 @@ Donate to Dance/USA!
 
 In highlighting the effort and investment of professional dancers, I hope broader awareness of the work behind the curtain will lead to increased appreciation of what the audience sees on stage. 
 ## Initial Sketches
-
+![]AboutMePics/FinalStoryArc.JPG
 ## Data
 ### Sources and Links: 
 - Data USA [*Dancers & Choreographers*](https://datausa.io/profile/soc/dancers-choreographers)
