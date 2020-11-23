@@ -32,7 +32,7 @@ Following the timeline of a dancer's career:
 
 In highlighting the effort and investment of professional dancers, I hope broader awareness of the work behind the curtain will lead to increased appreciation of what the audience sees on stage. 
 ## Initial Sketches
-![](AboutMePics/FinalStoryArc.JPG)
+![](AboutMePics/FinalStoryArc.JPG) ![](AboutMePics/FinalSketches.JPG)
 ## Examples of Existing Visualizations
 From FiveThirtyEight <br>
 ![](AboutMePics/abramsBallet.png) <br>
