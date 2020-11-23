@@ -1,28 +1,21 @@
 # Part I: Final Project 
-
 > **“We know of no other occupation that requires such extensive training, which is held in such esteem as a contribution to culture and pays so little.”** - William Baumol
-
 ## Outline
 ### Summary
-
 Financial investment in professional dance training begins decades before the average person even chooses a career path, and yet the income stream for most dancers dries up before they reach the age of 35. Start early and end early, the cost of a formal dance education often vastly exceeds potential income oppurtunities over time.
 ### Structure
 #### highlights of the story
-
 - discrepancies in investment vs. income
 - comparisons to cost and time of training required for other professions 
 - small chance of success
 - the cost of a second career
-
 #### story arc
-
 The story will follow the timeline of a dancer's career:
 - the initial joys of discovery
 - the sacrifices and struggles of pre-professional training
 - the rewards and satisfaction at a performer's prime
 - the decline from age and injury to a premature retirement
 - the challenges of preparing for a second career
-
 #### call to action 
 
 Like or follow a local dance group!
@@ -59,16 +52,11 @@ From Data USA <br>
 6. Healy, Rachael. “Dance, Sport and the Unspoken Trauma of Retirement.” Huck Magazine, January 18, 2019. https://www.huckmag.com/outdoor/sport-outdoor/dance-sport-and-the-unspoken-trauma-of-retirement/. <br>
 7. Levine, Mindy N. “Beyond Performance: Building a Better Future For Dancers and the Art of Dance,” n.d., 65. <br>
 8. “List of Dance Companies.” Accessed November 22, 2020. https://www.danceonline.co.uk/list-of-dance-companies.html. <br>
-9. Three Acts, Two Dancers, One Radio Host. “Three Acts, Two Dancers, One Radio Host.” Accessed November 22, 2020. http://3acts2dancers1radiohost.com/.
+9. Three Acts, Two Dancers, One Radio Host. “Three Acts, Two Dancers, One Radio Host.” Accessed November 22, 2020. http://3acts2dancers1radiohost.com/.  <br>
 
-A couple of paragraphs that document data sources and how data will be used.
-
-
-
-
+I will pull information from Data USA, the FiveThirtyEight article, and some other sources to illustrate the amount of money and time that goes into professional dance training. The NEA report has information on artist earnings and income from U.S. Census Bureau data. The BLS will provide data for comparisons to cost and time of training required for other professions. And the aDvANCE Project report offers insights on the cost of career transitioning post retirement from active performance.
 
 ## Method and Medium
-How the project will be completed? 
-Platform for the final project identified.
+Although it's not the most intuitive program for me, I'll use [Balsamiq](https://balsamiq.com/) for my initial sketch/wireframe attempts.The process feels clunky, but I do ultimately like the results. Data visualizations will probably be generated in a combination of [Tableau](https://www.tableau.com/) and [Flourish](https://flourish.studio/). Dance lends itself to beautiful imagery, so I imagine the use of some photo elements in creating the digital story via [Shorthand](https://shorthand.com/).
 
 
