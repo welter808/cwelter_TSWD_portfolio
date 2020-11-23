@@ -19,3 +19,5 @@ direct links to my projects
 [Visualizing Government Debt](/GovDebtViz.md)
 
 [Critique by Design](/OperatingMarginRedesign.md)
+
+[Part I: Final Project](/FinalProject_Part1.md)
