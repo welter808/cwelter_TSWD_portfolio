@@ -1,5 +1,6 @@
 # Part I: Final Project 
 > **“We know of no other occupation that requires such extensive training, which is held in such esteem as a contribution to culture and pays so little.”** - William Baumol
+
 ## Outline
 ### Summary
 Financial investment in professional dance training begins decades before the average person even chooses a career path, and yet the income stream for most dancers dries up before they reach the age of 35. Start early and end early, the cost of a formal dance education often vastly exceeds potential income oppurtunities over time.
