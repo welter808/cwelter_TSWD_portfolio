@@ -50,7 +50,7 @@ From Data USA <br>
 2. “Artists and Other Cultural Workers: A Statistical Portrait.” National Endowment for the Arts, April 2019. <br>
 3. “Dancers.” Accessed November 22, 2020. https://www.bls.gov/oes/current/oes272031.htm#st. <br>
 4. “Dancers & Choreographers | Data USA.” Accessed November 22, 2020. https://datausa.io/profile/soc/dancers-choreographers. <br>
-5. “Dancers and Choreographers : Occupational Outlook Handbook: : U.S. Bureau of Labor Statistics.” Accessed November 22, 2020. https://www.bls.gov/ooh/entertainment-and-sports/dancers-and-choreographers.htm#tab-1. <br>
+5. “Dancers and Choreographers: Occupational Outlook Handbook: U.S. Bureau of Labor Statistics.” Accessed November 22, 2020. https://www.bls.gov/ooh/entertainment-and-sports/dancers-and-choreographers.htm#tab-1. <br>
 6. Healy, Rachael. “Dance, Sport and the Unspoken Trauma of Retirement.” Huck Magazine, January 18, 2019. https://www.huckmag.com/outdoor/sport-outdoor/dance-sport-and-the-unspoken-trauma-of-retirement/. <br>
 7. Levine, Mindy N. “Beyond Performance: Building a Better Future For Dancers and the Art of Dance,” n.d., 65. <br>
 8. “List of Dance Companies.” Accessed November 22, 2020. https://www.danceonline.co.uk/list-of-dance-companies.html. <br>
