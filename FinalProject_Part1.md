@@ -57,6 +57,6 @@ From Data USA <br>
 I will pull information from Data USA, the FiveThirtyEight article, and some other sources to illustrate the amount of money and time that goes into professional dance training. The NEA report has information on artist earnings and income from U.S. Census Bureau data. The BLS will provide data for comparisons to cost and time of training required for other professions. And the aDvANCE Project report offers insights on the cost of career transitioning post retirement from active performance.
 
 ## Method and Medium
-Although it's not the most intuitive program for me, I'll use [Balsamiq](https://balsamiq.com/) for my initial sketch/wireframe attempts.The process feels clunky, but I do ultimately like the results. Data visualizations will probably be generated in a combination of [Tableau](https://www.tableau.com/) and [Flourish](https://flourish.studio/). Dance lends itself to beautiful imagery, so I imagine the use of some photo elements in creating the digital story via [Shorthand](https://shorthand.com/).
+Although it's not the most intuitive program for me, I'll use [Balsamiq](https://balsamiq.com/) for my initial sketch/wireframe attempts.The process still feels clunky to me, but I do ultimately like the results. Data visualizations will probably be generated in a combination of [Tableau](https://www.tableau.com/) and [Flourish](https://flourish.studio/). Dance lends itself to beautiful imagery, so I imagine the use of some photo elements in creating the digital story via [Shorthand](https://shorthand.com/).
 
 
