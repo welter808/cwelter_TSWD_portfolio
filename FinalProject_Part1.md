@@ -10,6 +10,7 @@ Financial investment in professional dance training begins decades before the av
 - comparisons to cost and time of training required for other professions 
 - small chance of success
 - the cost of a second career
+
 #### story arc
 The story will follow the timeline of a dancer's career:
 - the initial joys of discovery
@@ -17,16 +18,17 @@ The story will follow the timeline of a dancer's career:
 - the rewards and satisfaction at a performer's prime
 - the decline from age and injury to a premature retirement
 - the challenges of preparing for a second career
+
 #### call to action 
 
-Like or follow a local dance group!
-- link to list of professional companies
+- Like or follow a local dance group!
+  - link to list of professional companies
 
-Go see a show!
-- link to local dance events calendar
+- Go see a show!
+  - link to local dance events calendar
 
-Donate to Dance/USA!
-- link to giving site
+- Donate to Dance/USA!
+  - link to giving site
 
 
 In highlighting the effort and investment of professional dancers, I hope broader awareness of the work behind the curtain will lead to increased appreciation of what the audience sees on stage. 
