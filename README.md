@@ -20,4 +20,6 @@ direct links to my projects
 
 [Critique by Design](/OperatingMarginRedesign.md)
 
-[Part I: Final Project](/FinalProject_Part1.md)
+[Final Project: Part I](/FinalProject_Part1.md)
+
+[Final Project: Part II](/FinalProject_Part2.md)
