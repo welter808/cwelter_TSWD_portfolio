@@ -1,4 +1,4 @@
-# Part I: Final Project 
+# Final Project: Part I
 > **“We know of no other occupation that requires such extensive training, which is held in such esteem as a contribution to culture and pays so little.”** - William Baumol
 
 ## Outline
