@@ -10,17 +10,17 @@ Made in [Canva](https://www.canva.com/) <br/>
 ## User Research and Interviews
 ### Protocols:
 #### Target Audience
-- People who have limited understanding/appreciation of concert dance forms like modern and ballet. <br/>
+- People who have limited understanding/appreciation of concert dance forms like modern and ballet.
 
 #### Representative Individuals to Interview
-- My program cohort already has a demonstrated interest in the fine and performing arts, but few have extensive exposure to concert dance. <br/>
-- A graphic designer who has little to no experience with dance, but lots with design. <br/>
+- My program cohort already has a demonstrated interest in the fine and performing arts, but few have extensive exposure to concert dance. 
+- A graphic designer who has little to no experience with dance, but lots with design. 
 
 #### Interview Script and Responses
-![](AboutMePics/FeedbackResponses.jpg) <br/>
+![](AboutMePics/FeedbackResponses.jpg) 
 
 #### Findings
-While the dummy text blocks look dense, it was not my intention to imply that I would be writing that much content. Definetly something to keep in mind for future wireframes. The story arc seemed easy for all to follow, but I do love the idea of pulling out a *hook* for the beginning of the presentation. Also a few people mentioned moving elements, like animation or video. As it is a story about dance it would be worth finding a way to create movement within the visuals. <br/>
+While the dummy text blocks look dense, it was not my intention to imply that I would be writing that much content. Definetly something to keep in mind for future wireframes. The story arc seemed easy for all to follow, but I do love the idea of pulling out a *hook* for the beginning of the presentation. Also a few people mentioned moving elements, like animation or video. As it is a story about dance it would be worth finding a way to create movement within the visuals. 
 
 ## To Do List
 - [ ]  recreate visualizations with real data
