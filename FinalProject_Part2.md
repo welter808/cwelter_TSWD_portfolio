@@ -2,15 +2,15 @@
 > **“A dancer dies twice—once when they stop dancing, and this first death is more painful.”** <br/> - Martha Graham
 
 ## Storyboard via Wireframes
-Made in [Balsamiq](https://balsamiq.com/)
+Made in [Balsamiq](https://balsamiq.com/) <br/>
 ![](AboutMePics/FinalProject_Wireframe.png)
 ## Moodboard
-Made in [Canva](https://www.canva.com/)
+Made in [Canva](https://www.canva.com/) <br/>
 ![](AboutMePics/moodboard.png)
 ## User Research and Interviews
 ### Protocols:
 #### Target Audience
-- People who have limited understanding of concert dance forms like modern and ballet.
+- People who have limited understanding/appreciation of concert dance forms like modern and ballet.
 #### Representative Individuals to Interview
 - My program cohort already has a demonstrated interest in the fine and performing arts, but few have extensive exposure to concert dance. <br/>
 - A graphic designer who has little to no experience with dance, but lots with design.
