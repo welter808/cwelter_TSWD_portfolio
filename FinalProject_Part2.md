@@ -23,8 +23,8 @@ Made in [Canva](https://www.canva.com/) <br/>
 While the dummy text blocks look dense, it was not my intention to imply that I would be writing that much content. Definetly something to keep in mind for future wireframes. The story arc seemed easy for all to follow, but I do love the idea of pulling out a *hook* for the beginning of the presentation. Also a few people mentioned moving elements, like animation or video. As it is a story about dance it would be worth finding a way to create movement within the visuals. 
 
 ## To Do List
-- [ ]  recreate visualizations with real data
-- [ ]  finalize story elements
-- [ ]  what's the hook?
-- [ ]  find a silver lining to inspire action at the end, less doom and gloom
-- [ ]  is there a way to incorporate motion?
+- [ ]  &nbsp; recreate visualizations with real data
+- [ ]  &nbsp; finalize story elements
+- [ ]  &nbsp; what's the hook?
+- [ ]  &nbsp; find a silver lining to inspire action at the end, less doom and gloom
+- [ ]  &nbsp; is there a way to incorporate motion?
