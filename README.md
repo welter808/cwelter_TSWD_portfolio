@@ -23,3 +23,5 @@ direct links to my projects
 [Final Project: Part I](/FinalProject_Part1.md)
 
 [Final Project: Part II](/FinalProject_Part2.md)
+
+[Final Project: Part III](/FinalProject_Part3.md)
