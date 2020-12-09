@@ -22,3 +22,5 @@ I wanted to focus on how off target the U.S. has been through the years, and als
 >"If debt is above this threshold, each additional percentage point of debt costs 0.017 percentage points of annual real growth,"
 
 I could effectively show an estimate of the financial damage in dollars.
+
+# Ultimately it's always [about me](/README.md).
