@@ -1,6 +1,9 @@
 # Final Project: Part II
 > **“A dancer dies twice—once when they stop dancing, and this first death is more painful.”** <br/> - Martha Graham
 
+## A quick recap...
+
+[Part I](FinalProject_Part1.md)
 ## Storyboard via Wireframes
 Made in [Balsamiq](https://balsamiq.com/) <br/>
 ![](AboutMePics/FinalProject_Wireframe.png)
