@@ -48,3 +48,4 @@ Made in [Shorthand](https://shorthand.com/) <br>
 - A-Z Quotes. “W. H. Auden Quote.” Accessed December 9, 2020. https://www.azquotes.com/quote/532276.<br>
 - Woodruff, Jim. “How Much Money Does an NFL Player Make a Year?” Chron, July 1, 2018. https://work.chron.com/much-money-nfl-player-make-year-2377.html.<br>
 
+# Ultimately it's always [about me](/README.md).
