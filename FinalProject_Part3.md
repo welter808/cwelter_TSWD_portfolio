@@ -1,5 +1,5 @@
 # Final Project: Part III
-> **“We know of no other occupation that requires such extensive training, which is held in such esteem as a contribution to culture and pays so little.”** - William Baumol
+> **“The inadequacy of transition support not only creates significant challenges for individual dancers, but also imposes a social cost in the form of wasted human capital.”** - William Baumol
 
 ## But first, recaps...
 [Part I](FinalProject_Part1.md)
