@@ -17,6 +17,8 @@ I was unable to access a more detailed dataset with breakdowns of cost by age, o
 ![](AboutMePics/ChanceSketch.png) 
 
 The simple disorganization of the figures in what would otherwise be a typical unit chart, brought me so much joy. I was glad others felt similarly upon seeing it. In a presentation about a movement art form, it was important to create a sense of motion in the presentation. This simple idea stayed pretty consistent, but I did create a sort of GIF effect to make them high kick in the final story.
+![](AboutMePics/10Percent.gif) <br>
+Made in [Canva](https://www.canva.com/)
 
 ### Audience
 - insights from interviews
