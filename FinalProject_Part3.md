@@ -9,6 +9,9 @@
 ## ...and reflections
 ### Ch-ch-ch-ch-changes
 - whats different from Part II
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/4582629"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ### Audience
 - insights from interviews
 - personas
