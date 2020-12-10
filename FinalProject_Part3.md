@@ -8,8 +8,8 @@
 
 ## ...and reflections
 ### Ch-ch-ch-ch-changes
-- whats different from Part II
-
+From this dual axis line chart wireframe in [Balsamiq](https://balsamiq.com/) to this single stacked bar chart made using [Flourish](https://flourish.studio/)<br>
+![](
 <div class="flourish-embed flourish-chart" data-src="visualisation/4582629"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Audience
