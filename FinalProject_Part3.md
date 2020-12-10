@@ -13,7 +13,10 @@ From this dual axis line chart wireframe in [Balsamiq](https://balsamiq.com/)
 to this single stacked bar chart made using [Flourish](https://flourish.studio/).<br>
 <div class="flourish-embed flourish-chart" data-src="visualisation/4582629"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-I was unable to access a more detailed dataset with breakdowns of cost by age, only the final totals of categorical costs associated with serious ballet conservatory training. The data points spanned a whole 15 year period. Ultimately, the impact of the heavy financial burden was stronger as a "grand" total. And the vertical orientation let my play with a sort of rising child star/rising cost dynamic. Instead of embedding directly, I downloaded the visual as a serious of deconstructed jpegs and then reanimated using the reveal feature in Shorthand. Overall this result seemed more effective than my original option, which garnered little interest during feedback sessions and interviews.
+I was unable to access a more detailed dataset with breakdowns of cost by age, only the final totals of categorical costs associated with serious ballet conservatory training. The data points spanned a whole 15 year period. Ultimately, the impact of the heavy financial burden was stronger as a "grand" total. And the vertical orientation let my play with a sort of rising child star/rising cost dynamic. Instead of embedding directly, I downloaded the visual as a serious of deconstructed jpegs and then reanimated using the reveal feature in Shorthand. Overall this result seemed more effective than my original option, which garnered little interest during feedback sessions and interviews.<br>
+![](AboutMePics/ChanceSketch.png) 
+
+The simple disorganization of the figures in what would otherwise be a typical unit chart, brought me so much joy. I was glad others felt similarly upon seeing it. In a presentation about a movement art form, it was important to create a sense of motion in the presentation. This simple idea stayed pretty consistent, but I did create a sort of GIF effect to make them high kick in the final story.
 
 ### Audience
 - insights from interviews
