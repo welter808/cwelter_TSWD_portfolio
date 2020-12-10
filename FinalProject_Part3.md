@@ -20,10 +20,7 @@ The simple disorganization of the figures in what would otherwise be a typical u
 ![](AboutMePics/10Percent.gif) <br>
 Made in [Canva](https://www.canva.com/)
 
-### Audience
-- insights from interviews
-- personas
-- design lessons learned
+You may have noticed the slight color shift toward orange. Once I started playing around on Shorthand, I realized the pre-set choices were limited. If I wanted to match call out colors in text and/or backgrounds, the coral/cobalt/goldenrod palette of my earlier moodboard had to go. I was actually really sad. But I made note of the hex codes for Shorthand's greys, (lt & dk) orange, and (lt & dk) blue, then used those across Canva, Flourish, and Tableau for all my visuals.
 
 ## Final Data Story
 Made in [Shorthand](https://shorthand.com/) <br>
